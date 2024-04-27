@@ -5,16 +5,20 @@ permalink: /education/
 author_profile: true
 ---
 
-Master in Statistics and data scinece at [UW-Madison](https://www.wisc.edu/)
+M.S in Statistics and data scinece, 2024
+[University of Wisconsin Madison](https://www.wisc.edu/)
 
-Bachelor in Information and Computing Science at [Huazhong Agriculture University](https://www.hzau.edu.cn/)
+B.S in Information and Computing Science, 2022
+[Huazhong Agriculture University](https://www.hzau.edu.cn/)
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+----
 
-{% include base_path %}
+title: "Awards and Prizes"
+---
+National Scholarship, HZAU (Top 1%) 2019 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Excellent Students, HZAU (Top 10%) 2019 & 2020 & 2021 & 2022 
+
+National Third Prize of The 11th National Mathematics Competition for College Students 11/2019  
+
+Third Prize of “Huashu Cup” National Mathematical Contest in Modeling 08/2020
