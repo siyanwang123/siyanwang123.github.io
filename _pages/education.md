@@ -11,9 +11,8 @@ M.S in Statistics and data scinece, 2024
 B.S in Information and Computing Science, 2022
 [Huazhong Agriculture University](https://www.hzau.edu.cn/)
 
----
 Awards and Prizes
----
+====
 National Scholarship, HZAU (Top 1%) 2019 
 
 Excellent Students, HZAU (Top 10%) 2019 & 2020 & 2021 & 2022 
