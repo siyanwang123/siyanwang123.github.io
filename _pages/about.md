@@ -16,7 +16,7 @@ I have finshed the Statistics course STAT615 Statistical Learning, STAT610 Intro
 During my undergraduate studies, I received a comprehensive training in mathematics. I passed the courses like Mathematical Analysis, Advanced Algebra, Numerical Approximation and others with A and was listed as a excellent graduation student in my undergradte university at 2022.
 
 ### Skills of Programming
-#### proficient
+#### Proficient
 * R
 * Python
 * Matlab
