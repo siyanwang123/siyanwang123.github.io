@@ -19,6 +19,6 @@ Leading a 5 people research group, I tried to distinguish the different lung dis
 ### Research Assistant, College of Engineering, HZAU
 #### Study on Drought Stress of Fruit and Vegetable Seedlings 2020.10-2021.12
 
-<img align="left" src="/images/depbg1-1.jpeg" style="width:10%">
+<img align="left" src="/images/depbg1-1.jpeg" style="width:15%">
 
 The group is consist of 3 students in HZAU. We tried to determine whether plants are lack of water through the outcomes including leafs color, shape and height. To achieve that, we collected depth images and RGB images from different angles by Kinect tool and infrared camera. Based on those images, we calculated the FD of each image and found the relation between water content and FD.
