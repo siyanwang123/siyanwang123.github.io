@@ -10,7 +10,7 @@ author_profile: true
 #### Study on the Characteristics of Medical Soft Tissue Based on Fractal Dimension, 2019.10-2022.05
 * Provincial-level research project
   
-<img align="left" src="/images/pCT490.jpg" style="width:10%">
+<img align="left" src="/images/pCT490.jpg" style="width:15%">
 
 Leading a 5 people research group, I tried to distinguish the different lung diseases(COVID-19 and lung cancer) on CT image through its fractal dimension(FD). The whole dataset contains over 10k images, we calculated FD by several different methods on each whole lung CT image and lung parenchyma after image processing. We trained different machine learning models on binary classification, including neural network classifier, Support Vector Machine and K-means cluster. Finally we founded that SVM was the most effective classifier, with 96% of accuracy.
 
