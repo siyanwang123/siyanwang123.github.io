@@ -5,10 +5,16 @@ permalink: /education/
 author_profile: true
 ---
 
-M.S in Statistics and data scinece, 2024
+<img align="left" src="/images/favicon.ico" style="width:4%">
+
+* M.S in Statistics and data scinece, 2024
+  
 [University of Wisconsin Madison](https://www.wisc.edu/)
 
-B.S in Information and Computing Science, 2022
+<img align="left" src="/images/favicon.ico" style="width:4%">
+
+* B.S in Information and Computing Science, 2022
+
 [Huazhong Agriculture University](https://www.hzau.edu.cn/)
 
 Awards and Prizes
