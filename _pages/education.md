@@ -17,6 +17,13 @@ author_profile: true
 
 [Huazhong Agriculture University](https://www.hzau.edu.cn/)
 
+<img align="left" src="/images/favicon.ico" style="width:4%">
+
+* Global Leadership Summer Program, 2019
+
+[University Of Oxford](https://www.ox.ac.uk/)
+
+
 Awards and Prizes
 ====
 National Scholarship, HZAU (Top 1%) 2019 
