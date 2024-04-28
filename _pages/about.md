@@ -20,7 +20,8 @@ During my undergraduate studies, I received a comprehensive training in mathemat
 * R
 * Python
 * Matlab
-####  Familiar
+  
+#### Familiar
 * C++/C
 * SPSS
 * SQL
