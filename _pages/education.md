@@ -26,10 +26,10 @@ author_profile: true
 
 Awards and Prizes
 ====
-National Scholarship, HZAU (Top 1%) 2019 
+* National Scholarship, Ministry of Education of China (Top 1%) _2019_ 
 
-Excellent Students, HZAU (Top 10%) 2019 & 2020 & 2021 & 2022 
+* Excellent Students, HZAU (Top 10%) _2019 & 2020 & 2021 & 2022_
 
-National Third Prize of The 11th National Mathematics Competition for College Students Nov.2019
+* National Third Prize of The 11th National Mathematics Competition for College Students _Nov.2019_
 
-Third Prize of “Huashu Cup” National Mathematical Contest in Modeling Aug.2020
+* Third Prize of “Huashu Cup” National Mathematical Contest in Modeling _Aug.2020_
