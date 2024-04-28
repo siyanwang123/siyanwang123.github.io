@@ -18,7 +18,7 @@ During my undergraduate studies, I received a comprehensive training in mathemat
 ### Skills 
 #### Programming
 * Proficient：R, Python, Matlab
-* Familiar:* C++/C, SPSS, SQL
+* Familiar: C++/C, SPSS, SQL
 
 #### Language
 * English(proficient), Chinese(native), Cantonese(fluent)
