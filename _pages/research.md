@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### Research Leader, College of Science, HZAU
-#### Study on the Characteristics of Medical Soft Tissue Based on Fractal Dimension, 2019.10-2022.05
+### Study on the Characteristics of Medical Soft Tissue Based on Fractal Dimension, 2019.10-2022.05
 * Provincial-level research project
   
 <img align="left" src="/images/pCT490.jpg" style="width:15%">
@@ -17,7 +17,7 @@ Leading a 5 people research group, I tried to distinguish the different lung dis
 
 
 ### Research Assistant, College of Engineering, HZAU
-#### Study on Drought Stress of Fruit and Vegetable Seedlings 2020.10-2021.12
+### Study on Drought Stress of Fruit and Vegetable Seedlings 2020.10-2021.12
 
 <img align="left" src="/images/depbg1-1.jpeg" style="width:15%">
 
