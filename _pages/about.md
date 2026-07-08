@@ -9,7 +9,7 @@ redirect_from:
 
 Greetings! Welcome to my personal webpage.
 
-I'm a current Ph.D student in [Statistics](https://statistics.uconn.edu/) at the [University of Connecticut](https://uconn.edu/). I also work as a GA in the department, leading the discussions in section 018D and 033D of Stat 1100Q [Elementary Concepts of Statistics](https://statistics.uconn.edu/undergraduate/courses/course/STAT/1100Q/).
+I'm a current Ph.D student in [Statistics](https://statistics.uconn.edu/) at the [University of Connecticut](https://uconn.edu/). I am also a Research Assistant with the Student Success team in the Office of the Vice President for Student Life and Enrollment at the University of Connecticut, working on data-driven approaches to understanding and improving student outcomes.
 
 In 2024, I got my master's degree in [Statistics and Data Science](https://guide.wisc.edu/graduate/statistics/statistics-ms/statistics-statistics-data-science-ms/) at the [University of Wisconsin-Madison](https://www.wisc.edu/).
 
