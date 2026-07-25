@@ -9,5 +9,9 @@ main:
   - title: "Projects"
     url: /project/    
 
+  - title: "Teaching"
+    url: /teaching/
+
+
   - title: "Resume"
     url: /resume/Resume_Siyan.pdf
