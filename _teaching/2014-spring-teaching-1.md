@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "STAT 1100Q"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: https://statistics.uconn.edu/undergraduate/courses/course/STAT/1100Q/
+venue: "Department of Statistics"
+date: AY2024-2025
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Leading the discussion section 18D and 33D in 2024 Fall, 17D and 31D in 2025 Spring. 
